@@ -1,0 +1,16 @@
+{
+  "name": "npm-1.2-qrcode",
+  "version": "1.0.0",
+  "description": "Aditya Neve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "qrcode": "^1.4.4"
+  }
+}
