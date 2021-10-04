@@ -1,9 +1,9 @@
-function isPalindrome(num){
+function isPalindrome(num) {
     num = String(num);
     let i = 0;
-    let j = num.length-1;
-    while(i < j){
-        if(num[i] != num[j]){
+    let j = num.length - 1;
+    while (i < j) {
+        if (num[i] != num[j]) {
             return false;
         }
         i++;
@@ -12,4 +12,18 @@ function isPalindrome(num){
     return true;
 }
 
-module.exports = isPalindrome;
+
+function isPrime(num) {
+    for (let i = 2; i <= Math.sqrt(num); i++) {
+        if(num%i == 0){
+            return false;
+        }
+    }
+    return true;
+}
+
+
+module.exports = {
+    isPalindrome,
+    isPrime
+}

@@ -1,5 +1,5 @@
 {
-  "name": "basic-functions",
+  "name": "@aadityaneve/basic-functions",
   "version": "0.0.1",
   "description": "Package for functions like palindrome, prime, armstrong etc",
   "main": "index.js",
