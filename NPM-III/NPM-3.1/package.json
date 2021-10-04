@@ -1,0 +1,18 @@
+{
+  "name": "basic-functions",
+  "version": "0.0.1",
+  "description": "Package for functions like palindrome, prime, armstrong etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/aadityaneve/NPM/tree/main/NPM-III/NPM-3.1)"
+  },
+  "keywords": [
+    "basic-functions"
+  ],
+  "author": "aaditya",
+  "license": "MIT"
+}
