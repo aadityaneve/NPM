@@ -1,6 +1,6 @@
 {
   "name": "@aadityaneve/basic-functions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package for functions like palindrome, prime, armstrong etc",
   "main": "index.js",
   "scripts": {
